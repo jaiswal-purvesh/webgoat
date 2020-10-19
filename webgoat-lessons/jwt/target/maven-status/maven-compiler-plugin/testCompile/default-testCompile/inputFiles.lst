@@ -1,0 +1,5 @@
+/Users/purvesh/github/webapp/Test/webgoat/webgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTVotesEndpointTest.java
+/Users/purvesh/github/webapp/Test/webgoat/webgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTSecretKeyEndpointTest.java
+/Users/purvesh/github/webapp/Test/webgoat/webgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTRefreshEndpointTest.java
+/Users/purvesh/github/webapp/Test/webgoat/webgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTFinalEndpointTest.java
+/Users/purvesh/github/webapp/Test/webgoat/webgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/TokenTest.java
